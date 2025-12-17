@@ -1,12 +1,12 @@
 {
   "next_event": {
-    "name": "Rallye Monte-Carlo",
+    "name": "Rallye Monte-TEST",
     "start_date": "2026-01-22",
     "end_date": "2026-01-25"
   },
 
   "standings": [
-    { "driver": "Sébastien Ogaer",     "points": 215, "category": "WRC", "position": 1 },
+    { "driver": "Sébastien TEST",     "points": 215, "category": "WRC", "position": 1 },
     { "driver": "Elfyn Evans",         "points": 208, "category": "WRC", "position": 2 },
     { "driver": "Thierry Neuville",    "points": 198, "category": "WRC", "position": 3 },
     { "driver": "Kalle Rovanperä",     "points": 182, "category": "WRC", "position": 4 },
@@ -41,7 +41,7 @@
   ],
 
   "calendar": [
-    { "name": "Rallye Monte-Carlo",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
+    { "name": "Rallye Monte-Carlo-TEST",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
     { "name": "Rally Sweden",                "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
     { "name": "Safari Rally Kenya",          "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
     { "name": "Croatia Rally",               "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
@@ -57,4 +57,5 @@
     { "name": "Rally Saudi Arabia",          "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
 
