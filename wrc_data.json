@@ -6,7 +6,7 @@
   },
 
   "standings": [
-    { "driver": "Sébastien Ogier",     "points": 215, "category": "WRC", "position": 1 },
+    { "driver": "Sébastien Ogaer",     "points": 215, "category": "WRC", "position": 1 },
     { "driver": "Elfyn Evans",         "points": 208, "category": "WRC", "position": 2 },
     { "driver": "Thierry Neuville",    "points": 198, "category": "WRC", "position": 3 },
     { "driver": "Kalle Rovanperä",     "points": 182, "category": "WRC", "position": 4 },
@@ -57,3 +57,4 @@
     { "name": "Rally Saudi Arabia",          "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
