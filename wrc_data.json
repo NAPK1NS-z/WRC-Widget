@@ -37,10 +37,11 @@
   ],
 
   "standings": [
-    { "category": "WRC", "position": 1, "driver": "Testier", "points": 215 },
+    { "category": "WRC", "position": 1, "driver": "Testier2", "points": 215 },
     { "category": "WRC", "position": 2, "driver": "Evans", "points": 208 },
     { "category": "WRC", "position": 3, "driver": "Neuville", "points": 198 },
     { "category": "WRC", "position": 4, "driver": "Rovanperä", "points": 182 },
     { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
   ]
 }
+
