@@ -41,7 +41,7 @@
   ],
 
   "calendar": [
-    { "name": "Rallye Monte-Carlo",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
+    { "name": "Rallye Monte-Pabelo",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
     { "name": "Rally Sweden",                "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
     { "name": "Safari Rally Kenya",          "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
     { "name": "Croatia Rally",               "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
@@ -57,6 +57,7 @@
     { "name": "Rally Saudi Arabia",          "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
 
 
 
