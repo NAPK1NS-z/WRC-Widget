@@ -1,8 +1,8 @@
 {
   "next_event": {
     "name": "Test Rally",
-    "start_date": "2026-01-17",
-    "end_date": "2026-01-17"
+    "start_date": "2026-01-15",
+    "end_date": "2026-01-18"
   },
 
   "stages": [
@@ -44,3 +44,4 @@
     { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
   ]
 }
+
