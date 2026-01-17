@@ -10,28 +10,28 @@
       "id": "ss1",
       "name": "SS1 Test Start",
       "type": "stage",
-      "startTime": "2026-01-17T21:11:00+01:00",
+      "startTime": "2026-01-17T21:17:00+01:00",
       "durationMinutes": 2
     },
     {
       "id": "ss2",
       "name": "SS2 Test Middle",
       "type": "stage",
-      "startTime": "2026-01-17T21:15:00+01:00",
+      "startTime": "2026-01-17T21:22:00+01:00",
       "durationMinutes": 2
     },
     {
       "id": "ss3",
       "name": "SS3 Test Fast",
       "type": "stage",
-      "startTime": "2026-01-17T21:20:00+01:00",
+      "startTime": "2026-01-17T21:27:00+01:00",
       "durationMinutes": 2
     },
     {
       "id": "ss4",
       "name": "SS4 Test Finish",
       "type": "stage",
-      "startTime": "2026-01-17T21:25:00+01:00",
+      "startTime": "2026-01-17T21:33:00+01:00",
       "durationMinutes": 2
     }
   ],
@@ -44,6 +44,7 @@
     { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
   ]
 }
+
 
 
 
