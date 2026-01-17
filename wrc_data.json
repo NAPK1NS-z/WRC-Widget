@@ -10,7 +10,7 @@
       "id": "ss1",
       "name": "SS1 Test Start",
       "type": "stage",
-      "startTime": "2026-01-17T21:30:00+01:00",
+      "startTime": "2026-01-17T20:47:00+01:00",
       "durationMinutes": 2
     },
     {
@@ -44,6 +44,7 @@
     { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
   ]
 }
+
 
 
 
