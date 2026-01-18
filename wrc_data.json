@@ -1,156 +1,47 @@
 {
-  "next_event": {
-    "name": "Rallye Automobile Monte-Carlo",
-    "start_date": "2026-01-22",
-    "end_date": "2026-01-25"
-  },
-
-  "standings": [
-    { "driver": "Sébastien Testier", "points": 215, "category": "WRC", "position": 1 },
-    { "driver": "Elfyn Evans", "points": 208, "category": "WRC", "position": 2 },
-    { "driver": "Thierry Neuville", "points": 198, "category": "WRC", "position": 3 },
-    { "driver": "Kalle Rovanperä", "points": 182, "category": "WRC", "position": 4 },
-    { "driver": "Ott Tänak", "points": 171, "category": "WRC", "position": 5 }
-  ],
-
   "calendar": [
     {
-      "id": "monte_2026",
       "name": "Rallye Automobile Monte-Carlo",
       "start_date": "2026-01-22",
       "end_date": "2026-01-25",
       "country": "mc",
+      "results_url": "https://www.ewrc-results.com/results/96179-rallye-automobile-monte-carlo-2026/",
+      "maps_url": "https://www.ewrc-results.com/event/96179-rallye-automobile-monte-carlo-2026/itinerary",
+      "stages": [
+        {
+          "name": "Shakedown – Route de la Garde",
+          "startTime": "2026-01-22T14:01:00+01:00",
+          "type": "shakedown"
+        },
 
-      "results_url": "https://www.ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/", 
-      "maps_url": "https://www.google.com/maps/search/Rallye+Monte+Carlo",
+        {
+          "name": "SS1 La Bollène-Vésubie – Peïra-Cava",
+          "startTime": "2026-01-22T18:05:00+01:00",
+          "type": "stage"
+        },
+        {
+          "name": "SS2 Peïra-Cava – La Bollène-Vésubie",
+          "startTime": "2026-01-22T21:08:00+01:00",
+          "type": "stage"
+        },
 
-      "days": [
         {
-          "date": "2026-01-21",
-          "label": "Shakedown (Před rally)",
-          "items": [
-            {
-              "type": "shakedown",
-              "name": "Shakedown (Gap)",
-              "startTime": "2026-01-21T14:01:00+01:00"
-            }
-          ]
+          "name": "Service Park Monaco",
+          "startTime": "2026-01-23T00:30:00+01:00",
+          "type": "service"
+        },
+
+        {
+          "name": "SS3 Roure – Beuil",
+          "startTime": "2026-01-23T09:05:00+01:00",
+          "type": "stage"
         },
         {
-          "date": "2026-01-22",
-          "label": "Etapa 1 – Čtvrtek",
-          "items": [
-            {
-              "type": "stage",
-              "name": "SS1 Toudon / Saint-Antonin",
-              "startTime": "2026-01-22T16:05:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS2 Esclangon / Seyne-les-Alpes",
-              "startTime": "2026-01-22T18:35:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS3 Vaumeilh / Claret 1",
-              "startTime": "2026-01-22T20:35:00+01:00"
-            }
-          ]
-        },
-        {
-          "date": "2026-01-23",
-          "label": "Etapa 2 – Pátek",
-          "items": [
-            {
-              "type": "stage",
-              "name": "SS4 Laborel / Chauvac-Laux-Montaux 1",
-              "startTime": "2026-01-23T09:04:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS5 Saint-Nazaire-le-Désert / La Motte-Chalancon 1",
-              "startTime": "2026-01-23T10:32:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS6 La-Bâtie-des-Fontes / Aspremont 1",
-              "startTime": "2026-01-23T11:50:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS7 Laborel / Chauvac-Laux-Montaux 2",
-              "startTime": "2026-01-23T15:16:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS8 Saint-Nazaire-le-Désert / La Motte-Chalancon 2",
-              "startTime": "2026-01-23T16:44:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS9 La-Bâtie-des-Fontes / Aspremont 2",
-              "startTime": "2026-01-23T18:05:00+01:00"
-            }
-          ]
-        },
-        {
-          "date": "2026-01-24",
-          "label": "Etapa 3 – Sobota",
-          "items": [
-            {
-              "type": "stage",
-              "name": "SS10 La Bréole / Bellaffaire 1",
-              "startTime": "2026-01-24T08:31:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS11 Vaumeilh / Claret 2",
-              "startTime": "2026-01-24T09:55:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS12 La Bréole / Bellaffaire 2",
-              "startTime": "2026-01-24T12:31:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS13 Monaco Circuit (Super Special)",
-              "startTime": "2026-01-24T18:35:00+01:00"
-            }
-          ]
-        },
-        {
-          "date": "2026-01-25",
-          "label": "Etapa 4 – Neděle",
-          "items": [
-            {
-              "type": "stage",
-              "name": "SS14 Col de Braus / La Cabanette 1",
-              "startTime": "2026-01-25T08:05:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS15 La Bollène-Vésubie / Moulinet 1",
-              "startTime": "2026-01-25T09:35:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS16 Col de Braus / La Cabanette 2",
-              "startTime": "2026-01-25T11:09:00+01:00"
-            },
-            {
-              "type": "stage",
-              "name": "SS17 La Bollène-Vésubie / Moulinet 2 (Power Stage)",
-              "startTime": "2026-01-25T13:15:00+01:00"
-            }
-          ]
+          "name": "SS4 Beuil – Roure",
+          "startTime": "2026-01-23T10:58:00+01:00",
+          "type": "stage"
         }
       ]
-    },
-
-    { "name": "Rally Sweden", "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
-    { "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
-    { "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
-    { "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" }
+    }
   ]
 }
