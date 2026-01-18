@@ -1,7 +1,7 @@
 {
   "next_event": {
     "name": "Test Rally",
-    "start_date": "2026-01-15",
+    "start_date": "2026-01-18",
     "end_date": "2026-01-18"
   },
 
@@ -10,29 +10,19 @@
       "id": "ss1",
       "name": "SS1 Test Start",
       "type": "stage",
-      "startTime": "2026-01-18T11:45:00+01:00",
-      "durationMinutes": 2
+      "startTime": "2026-01-18T11:48:00+01:00"
     },
     {
       "id": "ss2",
       "name": "SS2 Test Middle",
       "type": "stage",
-      "startTime": "2026-01-18T12:20:00+01:00",
-      "durationMinutes": 2
+      "startTime": "2026-01-18T11:52:00+01:00"
     },
     {
       "id": "ss3",
-      "name": "SS3 Test Fast",
+      "name": "SS3 Test Finish",
       "type": "stage",
-      "startTime": "2026-01-18T12:55:00+01:00",
-      "durationMinutes": 2
-    },
-    {
-      "id": "ss4",
-      "name": "SS4 Test Finish",
-      "type": "stage",
-      "startTime": "2026-01-18T13:30:00+01:00",
-      "durationMinutes": 2
+      "startTime": "2026-01-18T11:56:00+01:00"
     }
   ],
 
@@ -44,13 +34,3 @@
     { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
   ]
 }
-
-
-
-
-
-
-
-
-
-
