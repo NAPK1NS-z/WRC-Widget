@@ -1,69 +1,103 @@
 {
   "next_event": {
+    "id": "montecarlo_2026",
     "name": "Rallye Automobile Monte-Carlo",
     "start_date": "2026-01-22",
     "end_date": "2026-01-25",
-    "country": "mc"
+    "country": "mc",
+    "results_url": "https://ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/",
+    "maps_url": "https://www.google.com/maps/search/Rallye+Monte+Carlo+stages"
   },
 
   "calendar": [
-    { "name": "Rallye Automobile Monte-Carlo", "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
-    { "name": "Rally Sweden", "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
-    { "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
-    { "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
-    { "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
-    { "name": "Rally de Portugal", "start_date": "2026-05-07", "end_date": "2026-05-10", "country": "pt" },
-    { "name": "Rally Japan", "start_date": "2026-05-28", "end_date": "2026-05-31", "country": "jp" },
-    { "name": "Acropolis Rally Greece", "start_date": "2026-06-25", "end_date": "2026-06-28", "country": "gr" },
-    { "name": "Rally Estonia", "start_date": "2026-07-16", "end_date": "2026-07-19", "country": "ee" },
-    { "name": "Secto Rally Finland", "start_date": "2026-07-30", "end_date": "2026-08-02", "country": "fi" },
-    { "name": "Rally del Paraguay", "start_date": "2026-08-27", "end_date": "2026-08-30", "country": "py" },
-    { "name": "Rally Chile Bio Bío", "start_date": "2026-09-10", "end_date": "2026-09-13", "country": "cl" },
-    { "name": "Rally Italia", "start_date": "2026-10-01", "end_date": "2026-10-04", "country": "it" },
-    { "name": "Rally Saudi Arabia", "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
+    { "id": "montecarlo_2026", "name": "Rallye Automobile Monte-Carlo", "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
+    { "id": "sweden_2026", "name": "Rally Sweden", "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
+    { "id": "kenya_2026", "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
+    { "id": "croatia_2026", "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
+    { "id": "canarias_2026", "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
+    { "id": "portugal_2026", "name": "Rally de Portugal", "start_date": "2026-05-07", "end_date": "2026-05-10", "country": "pt" },
+    { "id": "italy_2026", "name": "Rally Italia Sardegna", "start_date": "2026-06-04", "end_date": "2026-06-07", "country": "it" },
+    { "id": "greece_2026", "name": "Acropolis Rally Greece", "start_date": "2026-06-25", "end_date": "2026-06-28", "country": "gr" },
+    { "id": "estonia_2026", "name": "Rally Estonia", "start_date": "2026-07-16", "end_date": "2026-07-19", "country": "ee" },
+    { "id": "finland_2026", "name": "Secto Rally Finland", "start_date": "2026-07-30", "end_date": "2026-08-02", "country": "fi" },
+    { "id": "paraguay_2026", "name": "Rally del Paraguay", "start_date": "2026-08-27", "end_date": "2026-08-30", "country": "py" },
+    { "id": "chile_2026", "name": "Rally Chile Bio Bío", "start_date": "2026-09-10", "end_date": "2026-09-13", "country": "cl" },
+    { "id": "central_europe_2026", "name": "Central European Rally", "start_date": "2026-10-01", "end_date": "2026-10-04", "country": "de" },
+    { "id": "japan_2026", "name": "Rally Japan", "start_date": "2026-11-12", "end_date": "2026-11-15", "country": "jp" }
   ],
 
-  "standings": [
-    { "category": "WRC", "position": 1, "driver": "Kalle Rovanperä", "points": 0 },
-    { "category": "WRC", "position": 2, "driver": "Elfyn Evans", "points": 0 },
-    { "category": "WRC", "position": 3, "driver": "Thierry Neuville", "points": 0 },
-    { "category": "WRC", "position": 4, "driver": "Ott Tänak", "points": 0 },
-    { "category": "WRC", "position": 5, "driver": "Sébastien Ogier", "points": 0 },
-    { "category": "WRC", "position": 6, "driver": "Takamoto Katsuta", "points": 0 },
-    { "category": "WRC", "position": 7, "driver": "Adrien Fourmaux", "points": 0 },
-    { "category": "WRC", "position": 8, "driver": "Esapekka Lappi", "points": 0 },
-    { "category": "WRC", "position": 9, "driver": "Grégoire Munster", "points": 0 },
-    { "category": "WRC", "position": 10, "driver": "Jourdan Serderidis", "points": 0 },
+  "rallies": [
+    {
+      "id": "montecarlo_2026",
+      "name": "Rallye Automobile Monte-Carlo",
+      "start_date": "2026-01-22",
+      "end_date": "2026-01-25",
+      "results_url": "https://ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/",
+      "maps_url": "https://www.google.com/maps/search/Rallye+Monte+Carlo+stages",
+      "stages": [
+        { "id": "sd", "name": "Shakedown – Route de la Garde", "type": "shakedown", "startTime": "2026-01-22T14:01:00+01:00" },
 
-    { "category": "Rally2", "position": 1, "driver": "Oliver Solberg", "points": 0 },
-    { "category": "Rally2", "position": 2, "driver": "Yohan Rossel", "points": 0 },
-    { "category": "Rally2", "position": 3, "driver": "Nikolay Gryazin", "points": 0 },
-    { "category": "Rally2", "position": 4, "driver": "Emil Lindholm", "points": 0 },
-    { "category": "Rally2", "position": 5, "driver": "Kajetan Kajetanowicz", "points": 0 },
-    { "category": "Rally2", "position": 6, "driver": "Gus Greensmith", "points": 0 },
-    { "category": "Rally2", "position": 7, "driver": "Andreas Mikkelsen", "points": 0 },
-    { "category": "Rally2", "position": 8, "driver": "Teemu Suninen", "points": 0 },
-    { "category": "Rally2", "position": 9, "driver": "Marco Bulacia", "points": 0 },
-    { "category": "Rally2", "position": 10, "driver": "Jari-Matti Latvala", "points": 0 },
+        { "id": "ss1", "name": "SS1 La Bollène-Vésubie – Peïra-Cava", "type": "stage", "startTime": "2026-01-22T18:05:00+01:00" },
+        { "id": "ss2", "name": "SS2 Peïra-Cava – La Bollène-Vésubie", "type": "stage", "startTime": "2026-01-22T21:08:00+01:00" },
 
-    { "category": "Junior WRC", "position": 1, "driver": "Diego Domínguez Jr.", "points": 0 },
-    { "category": "Junior WRC", "position": 2, "driver": "Mille Johansson", "points": 0 },
-    { "category": "Junior WRC", "position": 3, "driver": "Taylor Gill", "points": 0 },
-    { "category": "Junior WRC", "position": 4, "driver": "Robert Virves", "points": 0 },
-    { "category": "Junior WRC", "position": 5, "driver": "Eero Remes", "points": 0 },
-    { "category": "Junior WRC", "position": 6, "driver": "Max McRae", "points": 0 },
-    { "category": "Junior WRC", "position": 7, "driver": "Ali Türkkan", "points": 0 },
-    { "category": "Junior WRC", "position": 8, "driver": "Romet Jürgenson", "points": 0 },
-    { "category": "Junior WRC", "position": 9, "driver": "Tom Rensonnet", "points": 0 },
-    { "category": "Junior WRC", "position": 10, "driver": "Laurent Pellier", "points": 0 }
+        { "id": "ss3", "name": "SS3 Roure – Beuil", "type": "stage", "startTime": "2026-01-23T09:05:00+01:00" },
+        { "id": "ss4", "name": "SS4 Beuil – Roure", "type": "stage", "startTime": "2026-01-23T10:58:00+01:00" },
+        { "id": "ss5", "name": "SS5 Puget-Théniers – Entrevaux", "type": "stage", "startTime": "2026-01-23T14:05:00+01:00" },
+        { "id": "ss6", "name": "SS6 Entrevaux – Puget-Théniers", "type": "stage", "startTime": "2026-01-23T16:08:00+01:00" },
+
+        { "id": "ss7", "name": "SS7 La Bréole – Selonnet", "type": "stage", "startTime": "2026-01-24T09:05:00+01:00" },
+        { "id": "ss8", "name": "SS8 Selonnet – La Bréole", "type": "stage", "startTime": "2026-01-24T10:58:00+01:00" },
+        { "id": "ss9", "name": "SS9 Briançonnet – Entrevaux", "type": "stage", "startTime": "2026-01-24T14:05:00+01:00" },
+        { "id": "ss10", "name": "SS10 Entrevaux – Briançonnet", "type": "stage", "startTime": "2026-01-24T16:08:00+01:00" },
+
+        { "id": "ss11", "name": "SS11 Lucéram – Lantosque", "type": "stage", "startTime": "2026-01-25T08:05:00+01:00" },
+        { "id": "ss12", "name": "SS12 Lantosque – Lucéram", "type": "stage", "startTime": "2026-01-25T09:58:00+01:00" },
+        { "id": "ss13", "name": "SS13 La Cabanette – Col de Braus", "type": "stage", "startTime": "2026-01-25T11:05:00+01:00" },
+        { "id": "ss14", "name": "SS14 Col de Braus – La Cabanette", "type": "stage", "startTime": "2026-01-25T12:15:00+01:00" },
+
+        { "id": "ps", "name": "Power Stage – Col de Turini", "type": "powerstage", "startTime": "2026-01-25T13:15:00+01:00" }
+      ]
+    }
   ],
 
-  "stages": [
-    { "name": "Shakedown – Route de la Garde", "startTime": "2026-01-22T14:01:00+01:00", "type": "shakedown" },
-    { "name": "SS1 La Bollène-Vésubie – Peïra-Cava", "startTime": "2026-01-22T18:05:00+01:00", "type": "stage" },
-    { "name": "SS2 Peïra-Cava – La Bollène-Vésubie", "startTime": "2026-01-22T21:08:00+01:00", "type": "stage" },
-    { "name": "SS3 Roure – Beuil", "startTime": "2026-01-23T09:05:00+01:00", "type": "stage" },
-    { "name": "SS4 Beuil – Roure", "startTime": "2026-01-23T10:58:00+01:00", "type": "stage" },
-    { "name": "SS17 Power Stage – Col de Turini", "startTime": "2026-01-25T12:15:00+01:00", "type": "powerstage" }
-  ]
+  "standings": {
+    "wrc": [
+      { "position": 1, "driver": "Kalle Rovanperä", "points": 0 },
+      { "position": 2, "driver": "Elfyn Evans", "points": 0 },
+      { "position": 3, "driver": "Thierry Neuville", "points": 0 },
+      { "position": 4, "driver": "Ott Tänak", "points": 0 },
+      { "position": 5, "driver": "Sébastien Ogier", "points": 0 },
+      { "position": 6, "driver": "Takamoto Katsuta", "points": 0 },
+      { "position": 7, "driver": "Adrien Fourmaux", "points": 0 },
+      { "position": 8, "driver": "Esapekka Lappi", "points": 0 },
+      { "position": 9, "driver": "Grégoire Munster", "points": 0 },
+      { "position": 10, "driver": "Jourdan Serderidis", "points": 0 }
+    ],
+
+    "rally2": [
+      { "position": 1, "driver": "Oliver Solberg", "points": 0 },
+      { "position": 2, "driver": "Yohan Rossel", "points": 0 },
+      { "position": 3, "driver": "Nikolay Gryazin", "points": 0 },
+      { "position": 4, "driver": "Emil Lindholm", "points": 0 },
+      { "position": 5, "driver": "Kajetan Kajetanowicz", "points": 0 },
+      { "position": 6, "driver": "Gus Greensmith", "points": 0 },
+      { "position": 7, "driver": "Andreas Mikkelsen", "points": 0 },
+      { "position": 8, "driver": "Teemu Suninen", "points": 0 },
+      { "position": 9, "driver": "Marco Bulacia", "points": 0 },
+      { "position": 10, "driver": "Jari-Matti Latvala", "points": 0 }
+    ],
+
+    "junior_wrc": [
+      { "position": 1, "driver": "Diego Domínguez Jr.", "points": 0 },
+      { "position": 2, "driver": "Mille Johansson", "points": 0 },
+      { "position": 3, "driver": "Taylor Gill", "points": 0 },
+      { "position": 4, "driver": "Robert Virves", "points": 0 },
+      { "position": 5, "driver": "Eero Remes", "points": 0 },
+      { "position": 6, "driver": "Max McRae", "points": 0 },
+      { "position": 7, "driver": "Ali Türkkan", "points": 0 },
+      { "position": 8, "driver": "Romet Jürgenson", "points": 0 },
+      { "position": 9, "driver": "Tom Rensonnet", "points": 0 },
+      { "position": 10, "driver": "Laurent Pellier", "points": 0 }
+    ]
+  }
 }
