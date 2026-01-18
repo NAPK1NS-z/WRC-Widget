@@ -1,47 +1,82 @@
 {
+  "next_event": {
+    "name": "Rallye Automobile Monte-Carlo",
+    "start_date": "2026-01-22",
+    "end_date": "2026-01-25"
+  },
+
+  "results_url": "https://ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/",
+  "maps_url": "https://www.google.com/maps/search/Rallye+Monte+Carlo+Stages",
+
   "calendar": [
     {
       "name": "Rallye Automobile Monte-Carlo",
       "start_date": "2026-01-22",
       "end_date": "2026-01-25",
-      "country": "mc",
-      "results_url": "https://www.ewrc-results.com/results/96179-rallye-automobile-monte-carlo-2026/",
-      "maps_url": "https://www.ewrc-results.com/event/96179-rallye-automobile-monte-carlo-2026/itinerary",
-      "stages": [
-        {
-          "name": "Shakedown – Route de la Garde",
-          "startTime": "2026-01-22T14:01:00+01:00",
-          "type": "shakedown"
-        },
-
-        {
-          "name": "SS1 La Bollène-Vésubie – Peïra-Cava",
-          "startTime": "2026-01-22T18:05:00+01:00",
-          "type": "stage"
-        },
-        {
-          "name": "SS2 Peïra-Cava – La Bollène-Vésubie",
-          "startTime": "2026-01-22T21:08:00+01:00",
-          "type": "stage"
-        },
-
-        {
-          "name": "Service Park Monaco",
-          "startTime": "2026-01-23T00:30:00+01:00",
-          "type": "service"
-        },
-
-        {
-          "name": "SS3 Roure – Beuil",
-          "startTime": "2026-01-23T09:05:00+01:00",
-          "type": "stage"
-        },
-        {
-          "name": "SS4 Beuil – Roure",
-          "startTime": "2026-01-23T10:58:00+01:00",
-          "type": "stage"
-        }
-      ]
+      "country": "mc"
+    },
+    {
+      "name": "Rally Sweden",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-15",
+      "country": "se"
+    },
+    {
+      "name": "Safari Rally Kenya",
+      "start_date": "2026-03-12",
+      "end_date": "2026-03-15",
+      "country": "ke"
     }
+  ],
+
+  "stages": [
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-22T14:01:00+01:00",
+      "type": "shakedown",
+      "name": "Shakedown – Route de la Garde"
+    },
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-22T18:05:00+01:00",
+      "type": "stage",
+      "name": "SS1 La Bollène-Vésubie – Peïra-Cava"
+    },
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-22T21:08:00+01:00",
+      "type": "stage",
+      "name": "SS2 Peïra-Cava – La Bollène-Vésubie"
+    },
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-23T09:05:00+01:00",
+      "type": "stage",
+      "name": "SS3 Roure – Beuil"
+    },
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-23T10:58:00+01:00",
+      "type": "stage",
+      "name": "SS4 Beuil – Roure"
+    },
+    {
+      "rally": "Rallye Automobile Monte-Carlo",
+      "time": "2026-01-25T12:15:00+01:00",
+      "type": "stage",
+      "name": "Power Stage – Col de Turini"
+    }
+  ],
+
+  "standings": [
+    { "category": "WRC", "position": 1, "driver": "Sébastien Ogier", "points": 30 },
+    { "category": "WRC", "position": 2, "driver": "Elfyn Evans", "points": 24 },
+    { "category": "WRC", "position": 3, "driver": "Thierry Neuville", "points": 21 },
+    { "category": "WRC", "position": 4, "driver": "Kalle Rovanperä", "points": 18 },
+    { "category": "WRC", "position": 5, "driver": "Ott Tänak", "points": 15 },
+
+    { "category": "Rally2", "position": 1, "driver": "Oliver Solberg", "points": 25 },
+    { "category": "Rally2", "position": 2, "driver": "Gus Greensmith", "points": 18 },
+    { "category": "Rally2", "position": 3, "driver": "Yohan Rossel", "points": 15 }
   ]
 }
