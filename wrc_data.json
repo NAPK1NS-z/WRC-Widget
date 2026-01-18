@@ -1,63 +1,156 @@
 {
   "next_event": {
-    "name": "Rallye Monte-Carlo",
+    "name": "Rallye Automobile Monte-Carlo",
     "start_date": "2026-01-22",
     "end_date": "2026-01-25"
   },
 
   "standings": [
-    { "driver": "Sébastien Testier",     "points": 215, "category": "WRC", "position": 1 },
-    { "driver": "Elfyn Evans",         "points": 208, "category": "WRC", "position": 2 },
-    { "driver": "Thierry Neuville",    "points": 198, "category": "WRC", "position": 3 },
-    { "driver": "Kalle Rovanperä",     "points": 182, "category": "WRC", "position": 4 },
-    { "driver": "Ott Tänak",           "points": 171, "category": "WRC", "position": 5 },
-    { "driver": "Esapekka Lappi",      "points": 142, "category": "WRC", "position": 6 },
-    { "driver": "Takamoto Katsuta",    "points": 118, "category": "WRC", "position": 7 },
-    { "driver": "Adrien Fourmaux",     "points": 95,  "category": "WRC", "position": 8 },
-    { "driver": "Greensmith (Guest)",  "points": 40,  "category": "WRC", "position": 9 },
-    { "driver": "Brynildsen (Guest)",  "points": 30,  "category": "WRC", "position": 10 },
-
-    { "driver": "Andreas Mikkelsen",    "points": 133, "category": "Rally2", "position": 1 },
-    { "driver": "Gus Greensmith",       "points": 121, "category": "Rally2", "position": 2 },
-    { "driver": "Oliver Solberg",       "points": 118, "category": "Rally2", "position": 3 },
-    { "driver": "Yohan Rossel",         "points": 112, "category": "Rally2", "position": 4 },
-    { "driver": "Nikolay Gryazin",      "points": 107, "category": "Rally2", "position": 5 },
-    { "driver": "Marco Bulacia",        "points": 96,  "category": "Rally2", "position": 6 },
-    { "driver": "Teemu Suninen",        "points": 90,  "category": "Rally2", "position": 7 },
-    { "driver": "Sami Pajari",          "points": 86,  "category": "Rally2", "position": 8 },
-    { "driver": "Kajetan Kajetanowicz", "points": 79,  "category": "Rally2", "position": 9 },
-    { "driver": "Armin Kremer",         "points": 54,  "category": "Rally2", "position": 10 },
-
-    { "driver": "Diego Domínguez Jr.",  "points": 102, "category": "Junior WRC", "position": 1 },
-    { "driver": "Jan Černý",            "points": 94,  "category": "Junior WRC", "position": 2 },
-    { "driver": "Eamonn Kelly",         "points": 88,  "category": "Junior WRC", "position": 3 },
-    { "driver": "Hamza Yazici",         "points": 74,  "category": "Junior WRC", "position": 4 },
-    { "driver": "Rok Turk",             "points": 69,  "category": "Junior WRC", "position": 5 },
-    { "driver": "Roberto Daprà",        "points": 63,  "category": "Junior WRC", "position": 6 },
-    { "driver": "Ali Türkkan",          "points": 55,  "category": "Junior WRC", "position": 7 },
-    { "driver": "Tom Rensonnet",        "points": 51,  "category": "Junior WRC", "position": 8 },
-    { "driver": "Max McRae",            "points": 44,  "category": "Junior WRC", "position": 9 },
-    { "driver": "Laurent Pellier",      "points": 40,  "category": "Junior WRC", "position": 10 }
+    { "driver": "Sébastien Testier", "points": 215, "category": "WRC", "position": 1 },
+    { "driver": "Elfyn Evans", "points": 208, "category": "WRC", "position": 2 },
+    { "driver": "Thierry Neuville", "points": 198, "category": "WRC", "position": 3 },
+    { "driver": "Kalle Rovanperä", "points": 182, "category": "WRC", "position": 4 },
+    { "driver": "Ott Tänak", "points": 171, "category": "WRC", "position": 5 }
   ],
 
   "calendar": [
-    { "name": "Rallye Monte-Pabelo",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
-    { "name": "Rally Sweden",                "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
-    { "name": "Safari Rally Kenya",          "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
-    { "name": "Croatia Rally",               "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
-    { "name": "Rally Islas Canarias",        "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
-    { "name": "Rally de Portugal",           "start_date": "2026-05-07", "end_date": "2026-05-10", "country": "pt" },
-    { "name": "Rally Japan",                 "start_date": "2026-05-28", "end_date": "2026-05-31", "country": "jp" },
-    { "name": "Acropolis Rally Greece",      "start_date": "2026-06-25", "end_date": "2026-06-28", "country": "gr" },
-    { "name": "Rally Estonia",               "start_date": "2026-07-16", "end_date": "2026-07-19", "country": "ee" },
-    { "name": "Secto Rally Finland",         "start_date": "2026-07-30", "end_date": "2026-08-02", "country": "fi" },
-    { "name": "Rally del Paraguay",          "start_date": "2026-08-27", "end_date": "2026-08-30", "country": "py" },
-    { "name": "Rally Chile Bio Bío",         "start_date": "2026-09-10", "end_date": "2026-09-13", "country": "cl" },
-    { "name": "Rally Italia",                "start_date": "2026-10-01", "end_date": "2026-10-04", "country": "it" },
-    { "name": "Rally Saudi Arabia",          "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
+    {
+      "id": "monte_2026",
+      "name": "Rallye Automobile Monte-Carlo",
+      "start_date": "2026-01-22",
+      "end_date": "2026-01-25",
+      "country": "mc",
+
+      "results_url": "https://www.ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/", 
+      "maps_url": "https://www.google.com/maps/search/Rallye+Monte+Carlo",
+
+      "days": [
+        {
+          "date": "2026-01-21",
+          "label": "Shakedown (Před rally)",
+          "items": [
+            {
+              "type": "shakedown",
+              "name": "Shakedown (Gap)",
+              "startTime": "2026-01-21T14:01:00+01:00"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-22",
+          "label": "Etapa 1 – Čtvrtek",
+          "items": [
+            {
+              "type": "stage",
+              "name": "SS1 Toudon / Saint-Antonin",
+              "startTime": "2026-01-22T16:05:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS2 Esclangon / Seyne-les-Alpes",
+              "startTime": "2026-01-22T18:35:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS3 Vaumeilh / Claret 1",
+              "startTime": "2026-01-22T20:35:00+01:00"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-23",
+          "label": "Etapa 2 – Pátek",
+          "items": [
+            {
+              "type": "stage",
+              "name": "SS4 Laborel / Chauvac-Laux-Montaux 1",
+              "startTime": "2026-01-23T09:04:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS5 Saint-Nazaire-le-Désert / La Motte-Chalancon 1",
+              "startTime": "2026-01-23T10:32:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS6 La-Bâtie-des-Fontes / Aspremont 1",
+              "startTime": "2026-01-23T11:50:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS7 Laborel / Chauvac-Laux-Montaux 2",
+              "startTime": "2026-01-23T15:16:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS8 Saint-Nazaire-le-Désert / La Motte-Chalancon 2",
+              "startTime": "2026-01-23T16:44:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS9 La-Bâtie-des-Fontes / Aspremont 2",
+              "startTime": "2026-01-23T18:05:00+01:00"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-24",
+          "label": "Etapa 3 – Sobota",
+          "items": [
+            {
+              "type": "stage",
+              "name": "SS10 La Bréole / Bellaffaire 1",
+              "startTime": "2026-01-24T08:31:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS11 Vaumeilh / Claret 2",
+              "startTime": "2026-01-24T09:55:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS12 La Bréole / Bellaffaire 2",
+              "startTime": "2026-01-24T12:31:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS13 Monaco Circuit (Super Special)",
+              "startTime": "2026-01-24T18:35:00+01:00"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-25",
+          "label": "Etapa 4 – Neděle",
+          "items": [
+            {
+              "type": "stage",
+              "name": "SS14 Col de Braus / La Cabanette 1",
+              "startTime": "2026-01-25T08:05:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS15 La Bollène-Vésubie / Moulinet 1",
+              "startTime": "2026-01-25T09:35:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS16 Col de Braus / La Cabanette 2",
+              "startTime": "2026-01-25T11:09:00+01:00"
+            },
+            {
+              "type": "stage",
+              "name": "SS17 La Bollène-Vésubie / Moulinet 2 (Power Stage)",
+              "startTime": "2026-01-25T13:15:00+01:00"
+            }
+          ]
+        }
+      ]
+    },
+
+    { "name": "Rally Sweden", "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
+    { "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
+    { "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
+    { "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" }
   ]
 }
-
-
-
-
