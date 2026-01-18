@@ -1,37 +1,63 @@
 {
   "next_event": {
-    "name": "Test Rally",
-    "start_date": "2026-01-18",
-    "end_date": "2026-01-18"
+    "name": "Rallye Monte-Carlo",
+    "start_date": "2026-01-22",
+    "end_date": "2026-01-25"
   },
 
-  "stages": [
-    {
-      "id": "ss1",
-      "name": "SS1 Test Start",
-      "type": "stage",
-      "startTime": "2026-01-18T12:02:00+01:00"
-    },
-    {
-      "id": "ss2",
-      "name": "SS2 Test Middle",
-      "type": "stage",
-      "startTime": "2026-01-18T12:10:00+01:00"
-    },
-    {
-      "id": "ss3",
-      "name": "SS3 Test Finish",
-      "type": "stage",
-      "startTime": "2026-01-18T12:25:00+01:00"
-    }
+  "standings": [
+    { "driver": "Sébastien Testier",     "points": 215, "category": "WRC", "position": 1 },
+    { "driver": "Elfyn Evans",         "points": 208, "category": "WRC", "position": 2 },
+    { "driver": "Thierry Neuville",    "points": 198, "category": "WRC", "position": 3 },
+    { "driver": "Kalle Rovanperä",     "points": 182, "category": "WRC", "position": 4 },
+    { "driver": "Ott Tänak",           "points": 171, "category": "WRC", "position": 5 },
+    { "driver": "Esapekka Lappi",      "points": 142, "category": "WRC", "position": 6 },
+    { "driver": "Takamoto Katsuta",    "points": 118, "category": "WRC", "position": 7 },
+    { "driver": "Adrien Fourmaux",     "points": 95,  "category": "WRC", "position": 8 },
+    { "driver": "Greensmith (Guest)",  "points": 40,  "category": "WRC", "position": 9 },
+    { "driver": "Brynildsen (Guest)",  "points": 30,  "category": "WRC", "position": 10 },
+
+    { "driver": "Andreas Mikkelsen",    "points": 133, "category": "Rally2", "position": 1 },
+    { "driver": "Gus Greensmith",       "points": 121, "category": "Rally2", "position": 2 },
+    { "driver": "Oliver Solberg",       "points": 118, "category": "Rally2", "position": 3 },
+    { "driver": "Yohan Rossel",         "points": 112, "category": "Rally2", "position": 4 },
+    { "driver": "Nikolay Gryazin",      "points": 107, "category": "Rally2", "position": 5 },
+    { "driver": "Marco Bulacia",        "points": 96,  "category": "Rally2", "position": 6 },
+    { "driver": "Teemu Suninen",        "points": 90,  "category": "Rally2", "position": 7 },
+    { "driver": "Sami Pajari",          "points": 86,  "category": "Rally2", "position": 8 },
+    { "driver": "Kajetan Kajetanowicz", "points": 79,  "category": "Rally2", "position": 9 },
+    { "driver": "Armin Kremer",         "points": 54,  "category": "Rally2", "position": 10 },
+
+    { "driver": "Diego Domínguez Jr.",  "points": 102, "category": "Junior WRC", "position": 1 },
+    { "driver": "Jan Černý",            "points": 94,  "category": "Junior WRC", "position": 2 },
+    { "driver": "Eamonn Kelly",         "points": 88,  "category": "Junior WRC", "position": 3 },
+    { "driver": "Hamza Yazici",         "points": 74,  "category": "Junior WRC", "position": 4 },
+    { "driver": "Rok Turk",             "points": 69,  "category": "Junior WRC", "position": 5 },
+    { "driver": "Roberto Daprà",        "points": 63,  "category": "Junior WRC", "position": 6 },
+    { "driver": "Ali Türkkan",          "points": 55,  "category": "Junior WRC", "position": 7 },
+    { "driver": "Tom Rensonnet",        "points": 51,  "category": "Junior WRC", "position": 8 },
+    { "driver": "Max McRae",            "points": 44,  "category": "Junior WRC", "position": 9 },
+    { "driver": "Laurent Pellier",      "points": 40,  "category": "Junior WRC", "position": 10 }
   ],
 
-  "standings": [
-    { "category": "WRC", "position": 1, "driver": "Testier2", "points": 215 },
-    { "category": "WRC", "position": 2, "driver": "Evans", "points": 208 },
-    { "category": "WRC", "position": 3, "driver": "Neuville", "points": 198 },
-    { "category": "WRC", "position": 4, "driver": "Rovanperä", "points": 182 },
-    { "category": "WRC", "position": 5, "driver": "Tänak", "points": 171 }
+  "calendar": [
+    { "name": "Rallye Monte-Pabelo",          "start_date": "2026-01-22", "end_date": "2026-01-25", "country": "mc" },
+    { "name": "Rally Sweden",                "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
+    { "name": "Safari Rally Kenya",          "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
+    { "name": "Croatia Rally",               "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
+    { "name": "Rally Islas Canarias",        "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
+    { "name": "Rally de Portugal",           "start_date": "2026-05-07", "end_date": "2026-05-10", "country": "pt" },
+    { "name": "Rally Japan",                 "start_date": "2026-05-28", "end_date": "2026-05-31", "country": "jp" },
+    { "name": "Acropolis Rally Greece",      "start_date": "2026-06-25", "end_date": "2026-06-28", "country": "gr" },
+    { "name": "Rally Estonia",               "start_date": "2026-07-16", "end_date": "2026-07-19", "country": "ee" },
+    { "name": "Secto Rally Finland",         "start_date": "2026-07-30", "end_date": "2026-08-02", "country": "fi" },
+    { "name": "Rally del Paraguay",          "start_date": "2026-08-27", "end_date": "2026-08-30", "country": "py" },
+    { "name": "Rally Chile Bio Bío",         "start_date": "2026-09-10", "end_date": "2026-09-13", "country": "cl" },
+    { "name": "Rally Italia",                "start_date": "2026-10-01", "end_date": "2026-10-04", "country": "it" },
+    { "name": "Rally Saudi Arabia",          "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
+
+
 
