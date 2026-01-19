@@ -49,7 +49,7 @@
       "end_date": "2026-01-25",
       "country": "mc",
       "results_url": "https://ewrc-results.com/event/96179/",
-      "maps_url": "https://ewrc-results.com/event/96179/itinerary",
+      "maps_url": "https://www.rally-maps.com/Rallye-Monte-Carlo-2026",
       "stages": [
         { "name": "Shakedown – Route de la Garde", "start": "2026-01-22T14:01:00+01:00" },
         { "name": "SS1 La Bollène – Peïra-Cava", "start": "2026-01-22T18:05:00+01:00" },
@@ -89,3 +89,4 @@
     { "id": "saudi_2026", "name": "Rally Saudi Arabia", "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
