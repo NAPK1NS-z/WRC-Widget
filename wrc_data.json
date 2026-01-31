@@ -71,7 +71,42 @@
         { "name": "SS17 La Bollène-Vésubie / Moulinet 2 (Power Stage)", "start": "2026-01-25T13:15:00+01:00" }
       ]
     },
-    { "id": "sweden_2026", "name": "Rally Sweden", "start_date": "2026-02-12", "end_date": "2026-02-15", "country": "se" },
+
+    {
+      "id": "sweden_2026",
+      "name": "Rally Sweden",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-15",
+      "country": "se",
+      "results_url": "https://ewrc-results.com/event/96256-rally-sweden-2026/results",
+      "maps_url": "https://rally-maps.com/Rally-Sweden-2026",
+      "stages": [
+        {
+          "name": "Shakedown – Umeå",
+          "start": "2026-02-12T09:01:00+01:00"
+        },
+
+        { "name": "SS1 Umeå 1", "start": "2026-02-12T19:05:00+01:00" },
+        { "name": "SS2 Bygdsiljum 1", "start": "2026-02-13T10:07:00+01:00" },
+        { "name": "SS3 Andersvattnet 1", "start": "2026-02-13T11:08:00+01:00" },
+        { "name": "SS4 Bäck 1", "start": "2026-02-13T12:16:00+01:00" },
+        { "name": "SS5 Bygdsiljum 2", "start": "2026-02-13T15:40:00+01:00" },
+        { "name": "SS6 Andersvattnet 2", "start": "2026-02-13T16:41:00+01:00" },
+        { "name": "SS7 Bäck 2", "start": "2026-02-13T17:49:00+01:00" },
+        { "name": "SS8 Umeå Sprint 1", "start": "2026-02-13T19:05:00+01:00" },
+        { "name": "SS9 Vännäs 1", "start": "2026-02-14T10:10:00+01:00" },
+        { "name": "SS10 Sarsjöliden 1", "start": "2026-02-14T11:05:00+01:00" },
+        { "name": "SS11 Kolksele 1", "start": "2026-02-14T11:59:00+01:00" },
+        { "name": "SS12 Vännäs 2", "start": "2026-02-14T15:10:00+01:00" },
+        { "name": "SS13 Sarsjöliden 2", "start": "2026-02-14T16:05:00+01:00" },
+        { "name": "SS14 Kolksele 2", "start": "2026-02-14T16:59:00+01:00" },
+        { "name": "SS15 Umeå Sprint 2", "start": "2026-02-14T18:05:00+01:00" },
+        { "name": "SS16 Västervik 1", "start": "2026-02-15T07:33:00+01:00" },
+        { "name": "SS17 Västervik 2", "start": "2026-02-15T10:11:00+01:00" },
+        { "name": "SS18 Umeå 2 (Power Stage)", "start": "2026-02-15T12:15:00+01:00" }
+      ]
+    },
+
     { "id": "kenya_2026", "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
     { "id": "croatia_2026", "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
     { "id": "canarias_2026", "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
