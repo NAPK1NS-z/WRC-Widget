@@ -1,44 +1,39 @@
 {
   "next_event": {
-    "id": "sweden_2026",
-    "name": "Rally Sweden",
-    "start_date": "2026-02-12",
-    "end_date": "2026-02-15"
+    "id": "kenya_2026",
+    "name": "Safari Rally Kenya",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-15"
   },
 
   "standings": [
-    { "driver": "Oliver Solberg", "points": 30, "category": "WRC", "position": 1 },
-    { "driver": "Elfyn Evans", "points": 26, "category": "WRC", "position": 2 },
-    { "driver": "Sébastien Ogier", "points": 18, "category": "WRC", "position": 3 },
-    { "driver": "Adrien Fourmaux", "points": 17, "category": "WRC", "position": 4 },
-    { "driver": "Thierry Neuville", "points": 10, "category": "WRC", "position": 5 },
-    { "driver": "Léo Rossel", "points": 8, "category": "WRC", "position": 6 },
-    { "driver": "Takamoto Katsuta", "points": 6, "category": "WRC", "position": 7 },
-    { "driver": "Yohan Rossel", "points": 6, "category": "WRC", "position": 8 },
-    { "driver": "Roberto Daprà", "points": 4, "category": "WRC", "position": 9 },
-    { "driver": "Arthur Pelamourgues", "points": 2, "category": "WRC", "position": 10 },
+    { "driver": "Elfyn Evans", "points": 60, "category": "WRC", "position": 1 },
+    { "driver": "Oliver Solberg", "points": 47, "category": "WRC", "position": 2 },
+    { "driver": "Takamoto Katsuta", "points": 30, "category": "WRC", "position": 3 },
+    { "driver": "Adrien Fourmaux", "points": 28, "category": "WRC", "position": 4 },
+    { "driver": "Thierry Neuville", "points": 21, "category": "WRC", "position": 5 },
+    { "driver": "Sébastien Ogier", "points": 18, "category": "WRC", "position": 6 },
+    { "driver": "Sami Pajari", "points": 17, "category": "WRC", "position": 7 },
+    { "driver": "Esapekka Lappi", "points": 9, "category": "WRC", "position": 8 },
+    { "driver": "Léo Rossel", "points": 8, "category": "WRC", "position": 9 },
+    { "driver": "Yohan Rossel", "points": 6, "category": "WRC", "position": 10 },
 
-    { "driver": "Léo Rossel", "points": 25, "category": "Rally2", "position": 1 },
-    { "driver": "Roberto Daprà", "points": 17, "category": "Rally2", "position": 2 },
-    { "driver": "Arthur Pelamourgues", "points": 15, "category": "Rally2", "position": 3 },
-    { "driver": "Eric Camilli", "points": 12, "category": "Rally2", "position": 4 },
-    { "driver": "Chris Ingram", "points": 10, "category": "Rally2", "position": 5 },
-    { "driver": "Nikolay Gryazin", "points": 8, "category": "Rally2", "position": 6 },
-    { "driver": "Jarosław Kołtun", "points": 6, "category": "Rally2", "position": 7 },
-    { "driver": "Filip Kohn", "points": 4, "category": "Rally2", "position": 8 },
-    { "driver": "Yohan Rossel", "points": 2, "category": "Rally2", "position": 9 },
-    { "driver": "John Wartique", "points": 1, "category": "Rally2", "position": 10 },
+    { "driver": "Roope Korhonen", "points": 25, "category": "Rally2", "position": 1 },
+    { "driver": "Léo Rossel", "points": 25, "category": "Rally2", "position": 2 },
+    { "driver": "Roberto Daprà", "points": 17, "category": "Rally2", "position": 3 },
+    { "driver": "Teemu Suninen", "points": 17, "category": "Rally2", "position": 4 },
+    { "driver": "Lauri Joona", "points": 15, "category": "Rally2", "position": 5 },
+    { "driver": "Arthur Pelamourgues", "points": 15, "category": "Rally2", "position": 6 },
+    { "driver": "Taylor Gill", "points": 12, "category": "Rally2", "position": 7 },
+    { "driver": "Eric Camilli", "points": 12, "category": "Rally2", "position": 8 },
+    { "driver": "Isack Reiersen", "points": 10, "category": "Rally2", "position": 9 },
+    { "driver": "Christopher Ingram", "points": 10, "category": "Rally2", "position": 10 },
 
-    { "driver": "Diego Domínguez Jr.", "points": 0, "category": "Junior WRC", "position": 1 },
-    { "driver": "Mille Johansson", "points": 0, "category": "Junior WRC", "position": 2 },
-    { "driver": "Taylor Gill", "points": 0, "category": "Junior WRC", "position": 3 },
-    { "driver": "Robert Virves", "points": 0, "category": "Junior WRC", "position": 4 },
-    { "driver": "Eero Remes", "points": 0, "category": "Junior WRC", "position": 5 },
-    { "driver": "Max McRae", "points": 0, "category": "Junior WRC", "position": 6 },
-    { "driver": "Ali Türkkan", "points": 0, "category": "Junior WRC", "position": 7 },
-    { "driver": "Romet Jürgenson", "points": 0, "category": "Junior WRC", "position": 8 },
-    { "driver": "Tom Rensonnet", "points": 0, "category": "Junior WRC", "position": 9 },
-    { "driver": "Laurent Pellier", "points": 0, "category": "Junior WRC", "position": 10 }
+    { "driver": "Calle Carlberg", "points": 25, "category": "Junior WRC", "position": 1 },
+    { "driver": "Leevi Lassila", "points": 18, "category": "Junior WRC", "position": 2 },
+    { "driver": "Raúl Hernández", "points": 15, "category": "Junior WRC", "position": 3 },
+    { "driver": "Ali Türkkan", "points": 14, "category": "Junior WRC", "position": 4 },
+    { "driver": "Gil Membrado", "points": 12, "category": "Junior WRC", "position": 5 }
   ],
 
   "calendar": [
@@ -121,5 +116,6 @@
     { "id": "saudi_2026", "name": "Rally Saudi Arabia", "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
   ]
 }
+
 
 
