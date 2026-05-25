@@ -1,58 +1,39 @@
 {
   "next_event": {
-    "id": "kenya_2026",
-    "name": "Safari Rally Kenya",
-    "start_date": "2026-03-12",
-    "end_date": "2026-03-15"
+    "id": "japan_2026",
+    "name": "FORUM8 Rally Japan",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-31"
   },
-
   "standings": [
-    { "driver": "Elfyn Evans", "points": 60, "category": "WRC", "position": 1 },
-    { "driver": "Oliver Solberg", "points": 47, "category": "WRC", "position": 2 },
-    { "driver": "Takamoto Katsuta", "points": 30, "category": "WRC", "position": 3 },
-    { "driver": "Adrien Fourmaux", "points": 28, "category": "WRC", "position": 4 },
-    { "driver": "Thierry Neuville", "points": 21, "category": "WRC", "position": 5 },
-    { "driver": "Sébastien Ogier", "points": 18, "category": "WRC", "position": 6 },
-    { "driver": "Sami Pajari", "points": 17, "category": "WRC", "position": 7 },
-    { "driver": "Esapekka Lappi", "points": 9, "category": "WRC", "position": 8 },
-    { "driver": "Léo Rossel", "points": 8, "category": "WRC", "position": 9 },
-    { "driver": "Yohan Rossel", "points": 6, "category": "WRC", "position": 10 },
-    { "driver": "Roberto Daprà", "points": 4, "category": "WRC", "position": 11 },
-    { "driver": "Jon Armstrong", "points": 4, "category": "WRC", "position": 12 },
-    { "driver": "Arthur Pelamourgues", "points": 2, "category": "WRC", "position": 13 },
-    { "driver": "Joshua McErlean", "points": 2, "category": "WRC", "position": 14 },
-    { "driver": "Matteo Fontana", "points": 2, "category": "WRC", "position": 15 },
-    { "driver": "Roope Korhonen", "points": 1, "category": "WRC", "position": 16 },
-    { "driver": "Eric Camilli", "points": 1, "category": "WRC", "position": 17 },
+    { "driver": "Elfyn Evans", "points": 123, "category": "WRC", "position": 1 },
+    { "driver": "Takamoto Katsuta", "points": 111, "category": "WRC", "position": 2 },
+    { "driver": "Oliver Solberg", "points": 92, "category": "WRC", "position": 3 },
+    { "driver": "Adrien Fourmaux", "points": 79, "category": "WRC", "position": 4 },
+    { "driver": "Sami Pajari", "points": 78, "category": "WRC", "position": 5 },
+    { "driver": "Sébastien Ogier", "points": 67, "category": "WRC", "position": 6 },
+    { "driver": "Thierry Neuville", "points": 65, "category": "WRC", "position": 7 },
+    { "driver": "Esapekka Lappi", "points": 21, "category": "WRC", "position": 8 },
+    { "driver": "Yohan Rossel", "points": 20, "category": "WRC", "position": 9 },
+    { "driver": "Léo Rossel", "points": 18, "category": "WRC", "position": 10 },
 
-    { "driver": "Roope Korhonen", "points": 25, "category": "Rally2", "position": 1 },
-    { "driver": "Léo Rossel", "points": 25, "category": "Rally2", "position": 2 },
-    { "driver": "Roberto Daprà", "points": 17, "category": "Rally2", "position": 3 },
-    { "driver": "Teemu Suninen", "points": 17, "category": "Rally2", "position": 4 },
-    { "driver": "Lauri Joona", "points": 15, "category": "Rally2", "position": 5 },
-    { "driver": "Arthur Pelamourgues", "points": 15, "category": "Rally2", "position": 6 },
-    { "driver": "Taylor Gill", "points": 12, "category": "Rally2", "position": 7 },
-    { "driver": "Eric Camilli", "points": 12, "category": "Rally2", "position": 8 },
-    { "driver": "Isak Reiersen", "points": 10, "category": "Rally2", "position": 9 },
-    { "driver": "Christopher Ingram", "points": 10, "category": "Rally2", "position": 10 },
-    { "driver": "Nikolay Gryazin", "points": 8, "category": "Rally2", "position": 11 },
-    { "driver": "Michał Sołowow", "points": 8, "category": "Rally2", "position": 12 },
-    { "driver": "Tommi Jylhä", "points": 6, "category": "Rally2", "position": 13 },
-    { "driver": "Jarosław Kołtun", "points": 6, "category": "Rally2", "position": 14 },
-    { "driver": "Filip Kohn", "points": 4, "category": "Rally2", "position": 15 },
-    { "driver": "Giovanni Trentin", "points": 4, "category": "Rally2", "position": 16 },
-    { "driver": "Marko Viitanen", "points": 2, "category": "Rally2", "position": 17 },
-    { "driver": "Yohan Rossel", "points": 2, "category": "Rally2", "position": 18 },
-    { "driver": "John Wartique", "points": 1, "category": "Rally2", "position": 19 },
-    { "driver": "Mattéo Chatillon", "points": 1, "category": "Rally2", "position": 20 },
+    { "driver": "Yohan Rossel", "points": 52, "category": "Rally2", "position": 1 },
+    { "driver": "Léo Rossel", "points": 52, "category": "Rally2", "position": 2 },
+    { "driver": "Roope Korhonen", "points": 52, "category": "Rally2", "position": 3 },
+    { "driver": "Teemu Suninen", "points": 42, "category": "Rally2", "position": 4 },
+    { "driver": "Roberto Daprà", "points": 37, "category": "Rally2", "position": 5 },
+    { "driver": "Éric Camilli", "points": 33, "category": "Rally2", "position": 6 },
+    { "driver": "Nikolay Gryazin", "points": 31, "category": "Rally2", "position": 7 },
+    { "driver": "Alejandro Cachón", "points": 29, "category": "Rally2", "position": 8 },
+    { "driver": "Andreas Mikkelsen", "points": 27, "category": "Rally2", "position": 9 },
+    { "driver": "Robert Virves", "points": 25, "category": "Rally2", "position": 10 },
 
-    { "driver": "Calle Carlberg", "points": 25, "category": "Junior WRC", "position": 1 },
-    { "driver": "Leevi Lassila", "points": 18, "category": "Junior WRC", "position": 2 },
-    { "driver": "Raúl Hernández", "points": 15, "category": "Junior WRC", "position": 3 },
-    { "driver": "Ali Türkkan", "points": 14, "category": "Junior WRC", "position": 4 },
-    { "driver": "Gil Membrado", "points": 12, "category": "Junior WRC", "position": 5 }
+    { "driver": "Calle Carlsberg", "points": 76, "category": "Junior WRC", "position": 1 },
+    { "driver": "Ali Türkkan", "points": 74, "category": "Junior WRC", "position": 2 },
+    { "driver": "Gil Membrado", "points": 44, "category": "Junior WRC", "position": 3 },
+    { "driver": "Leevi Lassila", "points": 41, "category": "Junior WRC", "position": 4 },
+    { "driver": "Raul Hernandez", "points": 36, "category": "Junior WRC", "position": 5 }
   ],
-
   "calendar": [
     {
       "id": "monte_carlo_2026",
@@ -60,10 +41,10 @@
       "start_date": "2026-01-22",
       "end_date": "2026-01-25",
       "country": "mc",
-      "results_url": "https://ewrc-results.com/event/96179/",
+      "results_url": "https://www.ewrc-results.com/final/96179-rallye-automobile-monte-carlo-2026/",
       "maps_url": "https://www.rally-maps.com/Rallye-Monte-Carlo-2026",
       "stages": [
-        { "name": "Shakedown – Gap", "start": "2026-01-21T14:01:00+01:00" },
+        { "name": "Shakedown - Gap", "start": "2026-01-21T14:01:00+01:00" },
         { "name": "SS1 Toudon / Saint-Antonin", "start": "2026-01-22T16:05:00+01:00" },
         { "name": "SS2 Esclangon / Seyne-les-Alpes", "start": "2026-01-22T18:35:00+01:00" },
         { "name": "SS3 Vaumeilh / Claret 1", "start": "2026-01-22T20:35:00+01:00" },
@@ -83,21 +64,16 @@
         { "name": "SS17 La Bollène-Vésubie / Moulinet 2 (Power Stage)", "start": "2026-01-25T13:15:00+01:00" }
       ]
     },
-
     {
       "id": "sweden_2026",
       "name": "Rally Sweden",
       "start_date": "2026-02-12",
       "end_date": "2026-02-15",
       "country": "se",
-      "results_url": "https://ewrc-results.com/event/96256-rally-sweden-2026/results",
-      "maps_url": "https://rally-maps.com/Rally-Sweden-2026",
+      "results_url": "https://www.ewrc-results.com/final/96256-rally-sweden-2026/",
+      "maps_url": "https://www.rally-maps.com/Rally-Sweden-2026",
       "stages": [
-        {
-          "name": "Shakedown – Umeå",
-          "start": "2026-02-12T09:01:00+01:00"
-        },
-
+        { "name": "Shakedown - Umeå", "start": "2026-02-12T09:01:00+01:00" },
         { "name": "SS1 Umeå 1", "start": "2026-02-12T19:05:00+01:00" },
         { "name": "SS2 Bygdsiljum 1", "start": "2026-02-13T10:07:00+01:00" },
         { "name": "SS3 Andersvattnet 1", "start": "2026-02-13T11:08:00+01:00" },
@@ -118,21 +94,122 @@
         { "name": "SS18 Umeå 2 (Power Stage)", "start": "2026-02-15T12:15:00+01:00" }
       ]
     },
-
-    { "id": "kenya_2026", "name": "Safari Rally Kenya", "start_date": "2026-03-12", "end_date": "2026-03-15", "country": "ke" },
-    { "id": "croatia_2026", "name": "Croatia Rally", "start_date": "2026-04-09", "end_date": "2026-04-12", "country": "hr" },
-    { "id": "canarias_2026", "name": "Rally Islas Canarias", "start_date": "2026-04-23", "end_date": "2026-04-26", "country": "es" },
-    { "id": "portugal_2026", "name": "Rally de Portugal", "start_date": "2026-05-07", "end_date": "2026-05-10", "country": "pt" },
-    { "id": "japan_2026", "name": "Rally Japan", "start_date": "2026-05-28", "end_date": "2026-05-31", "country": "jp" },
-    { "id": "greece_2026", "name": "Acropolis Rally Greece", "start_date": "2026-06-25", "end_date": "2026-06-28", "country": "gr" },
-    { "id": "estonia_2026", "name": "Rally Estonia", "start_date": "2026-07-16", "end_date": "2026-07-19", "country": "ee" },
-    { "id": "finland_2026", "name": "Secto Rally Finland", "start_date": "2026-07-30", "end_date": "2026-08-02", "country": "fi" },
-    { "id": "paraguay_2026", "name": "Rally del Paraguay", "start_date": "2026-08-27", "end_date": "2026-08-30", "country": "py" },
-    { "id": "chile_2026", "name": "Rally Chile Bio Bío", "start_date": "2026-09-10", "end_date": "2026-09-13", "country": "cl" },
-    { "id": "italy_2026", "name": "Rally Italia", "start_date": "2026-10-01", "end_date": "2026-10-04", "country": "it" },
-    { "id": "saudi_2026", "name": "Rally Saudi Arabia", "start_date": "2026-11-11", "end_date": "2026-11-14", "country": "sa" }
+    {
+      "id": "kenya_2026",
+      "name": "Safari Rally Kenya",
+      "start_date": "2026-03-12",
+      "end_date": "2026-03-15",
+      "country": "ke",
+      "results_url": "https://www.ewrc-results.com/final/96257-safari-rally/",
+      "maps_url": "https://www.rally-maps.com/Safari-Rally-Kenya-2026"
+    },
+    {
+      "id": "croatia_2026",
+      "name": "Croatia Rally",
+      "start_date": "2026-04-09",
+      "end_date": "2026-04-12",
+      "country": "hr",
+      "results_url": "https://www.ewrc-results.com/final/96258-croatia-rally-2026/",
+      "maps_url": "https://www.rally-maps.com/Croatia-Rally-2026"
+    },
+    {
+      "id": "canarias_2026",
+      "name": "Rally Islas Canarias - Rally of Spain",
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-26",
+      "country": "es",
+      "results_url": "https://www.ewrc-results.com/final/96259-rally-islas-canarias-rally-of-spain-2026/",
+      "maps_url": "https://www.rally-maps.com/Rally-Islas-Canarias-Rally-of-Spain-2026"
+    },
+    {
+      "id": "portugal_2026",
+      "name": "Vodafone Rally de Portugal",
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-10",
+      "country": "pt",
+      "results_url": "https://www.ewrc-results.com/final/96260-vodafone-rally-de-portugal-2026/",
+      "maps_url": "https://www.rally-maps.com/Rally-de-Portugal-2026"
+    },
+    {
+      "id": "japan_2026",
+      "name": "FORUM8 Rally Japan",
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-31",
+      "country": "jp",
+      "results_url": "https://www.ewrc-results.com/event/96261-forum8-rally-japan-2026/",
+      "maps_url": "https://www.rally-maps.com/Rally-Japan-2026",
+      "stages": [
+        { "name": "Shakedown - Kuragaike Park", "start": "2026-05-28T08:01:00+09:00" },
+        { "name": "SS1 Asuke 1", "start": "2026-05-29T08:03:00+09:00" },
+        { "name": "SS2 Isegami's Tunnel 1", "start": "2026-05-29T08:46:00+09:00" },
+        { "name": "SS3 Inabu / Shitara 1", "start": "2026-05-29T10:09:00+09:00" },
+        { "name": "SS4 Asuke 2", "start": "2026-05-29T13:57:00+09:00" },
+        { "name": "SS5 Isegami's Tunnel 2", "start": "2026-05-29T14:40:00+09:00" },
+        { "name": "SS6 Inabu / Shitara 2", "start": "2026-05-29T16:03:00+09:00" },
+        { "name": "SS7 Obara 1", "start": "2026-05-30T07:41:00+09:00" },
+        { "name": "SS8 Ena 1", "start": "2026-05-30T08:54:00+09:00" },
+        { "name": "SS9 Mt. Kasagi 1", "start": "2026-05-30T10:35:00+09:00" },
+        { "name": "SS10 Mt. Kasagi 2", "start": "2026-05-30T13:05:00+09:00" },
+        { "name": "SS11 Ena 2", "start": "2026-05-30T14:38:00+09:00" },
+        { "name": "SS12 Obara 2", "start": "2026-05-30T15:56:00+09:00" },
+        { "name": "SS13 Fujioka SSS 1", "start": "2026-05-30T17:15:00+09:00" },
+        { "name": "SS14 Fujioka SSS 2", "start": "2026-05-30T17:38:00+09:00" },
+        { "name": "SS15 Nukata 1", "start": "2026-05-31T08:14:00+09:00" },
+        { "name": "SS16 Lake Mikawako 1", "start": "2026-05-31T09:05:00+09:00" },
+        { "name": "SS17 Kuragaike SSS 1", "start": "2026-05-31T10:13:00+09:00" },
+        { "name": "SS18 Kuragaike SSS 2", "start": "2026-05-31T10:32:00+09:00" },
+        { "name": "SS19 Nukata 2", "start": "2026-05-31T12:30:00+09:00" },
+        { "name": "SS20 Lake Mikawako 2 (Power Stage)", "start": "2026-05-31T14:15:00+09:00" }
+      ]
+    },
+    {
+      "id": "greece_2026",
+      "name": "EKO Acropolis Rally Greece",
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-28",
+      "country": "gr"
+    },
+    {
+      "id": "estonia_2026",
+      "name": "Delfi Rally Estonia",
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-19",
+      "country": "ee"
+    },
+    {
+      "id": "finland_2026",
+      "name": "Secto Rally Finland",
+      "start_date": "2026-07-30",
+      "end_date": "2026-08-02",
+      "country": "fi"
+    },
+    {
+      "id": "paraguay_2026",
+      "name": "Ueno Rally del Paraguay",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-30",
+      "country": "py"
+    },
+    {
+      "id": "chile_2026",
+      "name": "Rally Chile Bio Bío",
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-13",
+      "country": "cl"
+    },
+    {
+      "id": "italy_2026",
+      "name": "Rally Italia Sardegna",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-04",
+      "country": "it"
+    },
+    {
+      "id": "saudi_2026",
+      "name": "Rally Saudi Arabia",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-14",
+      "country": "sa"
+    }
   ]
 }
-
-
-
